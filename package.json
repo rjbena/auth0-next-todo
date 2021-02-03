@@ -8,6 +8,7 @@
     "start": "next start"
   },
   "dependencies": {
+    "@auth0/nextjs-auth0": "^0.16.1",
     "airtable": "^0.10.1",
     "autoprefixer": "^10.2.3",
     "next": "10.0.5",
